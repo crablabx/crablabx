@@ -1,62 +1,46 @@
-# 🧪 crablabx-lab
+# 👾 crablabx
 
-Welcome to my personal cyber lab.
-This repo contains digital forensics projects, blue team walkthroughs, OSINT notes, and cybersecurity experiments as I grow my skills in the field.
-
----
-
-## 🧠 Topics Covered
-- Memory forensics (Volatility)
-- Packet capture analysis (Wireshark)
-- TryHackMe Blue Team Path
-- OSINT recon and tracking
-- Digital evidence handling
-- Threat detection & response
+Welcome to my digital space. I'm a U.S. Navy veteran turned cybersecurity practitioner, currently building skills in cyber forensics, network analysis, and threat intel.
 
 ---
 
-## 📂 Repo Structure
-```bash
-crablabx-lab/
-├── memory-analysis/
-│   └── volatility-lab1.md
-├── packet-analysis/
-│   └── wireshark-http-investigation.md
-├── osint/
-│   └── sherlock-username-trace.md
-├── tryhackme/
-│   └── blue-team-box-01.md
-└── README.md
-```
+## 🧠 About Me
+- 🎯 Focused on digital forensics, cybercrime investigations, and blue team operations
+- 🛠️ Building a home lab for practical training in network and host-based analysis
+- 📚 Criminal Justice: CSI major with a pivot to cybersecurity
+- 🔍 Exploring malware behavior, OSINT, and packet inspection
 
 ---
 
-## 🛠️ Tools Used
-- Volatility / Autopsy / FTK Imager
-- Wireshark / Zeek / TCPDump
-- Sherlock / OnionSearch / TheHarvester
-- TryHackMe / Hack The Box / Splunk
-- Kali Linux / Ubuntu (VMs)
+## 🛠️ Tools & Tech
+- **Forensics:** Autopsy, FTK Imager, Sleuth Kit, Volatility
+- **Networking:** Wireshark, Zeek, TCPDump
+- **OSINT:** Sherlock, OnionSearch, TheHarvester
+- **Linux:** Kali, Ubuntu (VMs)
+- **Platforms:** TryHackMe, Hack The Box, Splunk, Security Onion
 
 ---
 
-## 🧩 Notes
-This is an evolving lab space — projects are added as I progress through courses, labs, and certifications.
-
-💬 Feedback, ideas, or collaboration? Hit me at `crablabx@pm.me`
+## 📁 Projects
+> Coming soon as I build out my portfolio. Plans include:
+- THM Blue Team path walkthroughs
+- Packet analysis case studies
+- OSINT recon exercises
+- Forensic image reports
 
 ---
-
-> "Train like it's real. Hunt like it matters."
-
 
 ## 📫 Contact
 Feel free to reach out or collaborate:
 - 📧 **Email:** crablabx@pm.me
 - 🌐 GitHub: [crablabx](https://github.com/crablabx)
 
+> "Learn by doing, fail fast, improve constantly."
+
 ---
 
 ## 📌 Notes
 This profile is a living document as I grow in cyber. Stay tuned for labs, reports, and walkthroughs.
+
+
 
